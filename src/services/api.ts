@@ -59,7 +59,8 @@ export async function searchRecipes(params: Record<string, any>): Promise<Recipe
 export async function getRecipeById(id: number): Promise<Recipe> {
   if (useDummyData) {
     const dummyData = await import("../data/recipeDetails.json");
-    return dummyData.default;
+    // Ensure all required fields are present for the Recipe type
+    return dummyData.default as Recipe;
   }
 
   try {

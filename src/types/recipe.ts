@@ -107,6 +107,7 @@ export interface MealItem {
   readyInMinutes: number;
   servings: number;
   sourceUrl: string;
+  image: string; // Added this property to match usage in MealPlanner.tsx
 }
 
 export interface NutritionInfo {
