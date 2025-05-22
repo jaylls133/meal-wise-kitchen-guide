@@ -1,0 +1,69 @@
+
+{
+  "id": 9040,
+  "name": "banana",
+  "amount": 1,
+  "unit": "banana",
+  "nutrients": [
+    {
+      "name": "Calories",
+      "amount": 105,
+      "unit": "kcal",
+      "percentOfDailyNeeds": 5.25
+    },
+    {
+      "name": "Fat",
+      "amount": 0.39,
+      "unit": "g",
+      "percentOfDailyNeeds": 0.6
+    },
+    {
+      "name": "Saturated Fat",
+      "amount": 0.13,
+      "unit": "g",
+      "percentOfDailyNeeds": 0.83
+    },
+    {
+      "name": "Carbohydrates",
+      "amount": 27,
+      "unit": "g",
+      "percentOfDailyNeeds": 9
+    },
+    {
+      "name": "Fiber",
+      "amount": 3.1,
+      "unit": "g",
+      "percentOfDailyNeeds": 12.4
+    },
+    {
+      "name": "Sugar",
+      "amount": 14.4,
+      "unit": "g",
+      "percentOfDailyNeeds": 16
+    },
+    {
+      "name": "Protein",
+      "amount": 1.29,
+      "unit": "g",
+      "percentOfDailyNeeds": 2.58
+    },
+    {
+      "name": "Vitamin C",
+      "amount": 10.3,
+      "unit": "mg",
+      "percentOfDailyNeeds": 12.48
+    },
+    {
+      "name": "Potassium",
+      "amount": 422,
+      "unit": "mg",
+      "percentOfDailyNeeds": 12.05
+    },
+    {
+      "name": "Vitamin B6",
+      "amount": 0.43,
+      "unit": "mg",
+      "percentOfDailyNeeds": 21.5
+    }
+  ]
+}

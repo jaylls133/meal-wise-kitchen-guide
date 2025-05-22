@@ -1,0 +1,213 @@
+
+{
+  "id": 633068,
+  "title": "Authentic Italian Pasta Carbonara",
+  "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+  "servings": 4,
+  "readyInMinutes": 20,
+  "summary": "Authentic Italian Pasta Carbonara is a classic dish from Rome made with eggs, hard cheese, cured pork, and black pepper. It's creamy but doesn't use cream, getting its richness from the eggs and cheese. This traditional Italian recipe is simple but absolutely delicious, requiring only a handful of ingredients.",
+  "cuisines": ["Italian", "Mediterranean"],
+  "dishTypes": ["main course", "dinner", "pasta"],
+  "diets": [],
+  "instructions": "1. Bring a large pot of salted water to a boil. Add the pasta and cook until al dente (8-10 minutes).\n\n2. While the pasta is cooking, heat a large skillet over medium heat. Add the diced pancetta and cook until crispy (about 5 minutes). Turn off heat.\n\n3. In a bowl, whisk together the eggs, grated Pecorino Romano, salt, and black pepper.\n\n4. Drain the pasta, reserving about 1/2 cup of the pasta water. Immediately add the hot pasta to the skillet with the pancetta.\n\n5. Working quickly, pour the egg mixture over the hot pasta and stir vigorously. The heat from the pasta will cook the eggs and create a creamy sauce. If the sauce is too thick, add a splash of the reserved pasta water.\n\n6. Serve immediately, topped with additional grated cheese and freshly ground black pepper.",
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": false,
+  "sustainable": false,
+  "healthScore": 45,
+  "pricePerServing": 178.54,
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Bring a large pot of salted water to a boil. Add the pasta and cook until al dente (8-10 minutes).",
+          "ingredients": [
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            },
+            {
+              "id": 2047,
+              "name": "salt",
+              "localizedName": "salt",
+              "image": "salt.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ],
+          "length": {
+            "number": 10,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 2,
+          "step": "While the pasta is cooking, heat a large skillet over medium heat. Add the diced pancetta and cook until crispy (about 5 minutes). Turn off heat.",
+          "ingredients": [
+            {
+              "id": 10410123,
+              "name": "pancetta",
+              "localizedName": "pancetta",
+              "image": "pancetta.png"
+            },
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ],
+          "length": {
+            "number": 5,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 3,
+          "step": "In a bowl, whisk together the eggs, grated Pecorino Romano, salt, and black pepper.",
+          "ingredients": [
+            {
+              "id": 1032,
+              "name": "pecorino romano",
+              "localizedName": "pecorino romano",
+              "image": "pecorino-romano.jpg"
+            },
+            {
+              "id": 1002030,
+              "name": "black pepper",
+              "localizedName": "black pepper",
+              "image": "pepper.jpg"
+            },
+            {
+              "id": 1123,
+              "name": "egg",
+              "localizedName": "egg",
+              "image": "egg.png"
+            },
+            {
+              "id": 2047,
+              "name": "salt",
+              "localizedName": "salt",
+              "image": "salt.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404661,
+              "name": "whisk",
+              "localizedName": "whisk",
+              "image": "whisk.png"
+            },
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "step": "Drain the pasta, reserving about 1/2 cup of the pasta water. Immediately add the hot pasta to the skillet with the pancetta.",
+          "ingredients": [
+            {
+              "id": 10410123,
+              "name": "pancetta",
+              "localizedName": "pancetta",
+              "image": "pancetta.png"
+            },
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "step": "Working quickly, pour the egg mixture over the hot pasta and stir vigorously. The heat from the pasta will cook the eggs and create a creamy sauce. If the sauce is too thick, add a splash of the reserved pasta water.",
+          "ingredients": [
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            },
+            {
+              "id": 1123,
+              "name": "egg",
+              "localizedName": "egg",
+              "image": "egg.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Serve immediately, topped with additional grated cheese and freshly ground black pepper.",
+          "ingredients": [
+            {
+              "id": 1002030,
+              "name": "black pepper",
+              "localizedName": "black pepper",
+              "image": "pepper.jpg"
+            },
+            {
+              "id": 1041009,
+              "name": "cheese",
+              "localizedName": "cheese",
+              "image": "cheddar-cheese.png"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ]
+}

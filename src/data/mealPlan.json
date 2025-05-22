@@ -1,0 +1,38 @@
+
+{
+  "meals": [
+    {
+      "id": 633068,
+      "title": "Authentic Italian Pasta Carbonara",
+      "readyInMinutes": 20,
+      "servings": 4,
+      "sourceUrl": "#",
+      "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+      "imageType": "jpg"
+    },
+    {
+      "id": 642614,
+      "title": "Fresh Summer Vegetable Salad",
+      "readyInMinutes": 15,
+      "servings": 6,
+      "sourceUrl": "#",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "imageType": "jpg"
+    },
+    {
+      "id": 649931,
+      "title": "Lemon Garlic Roast Chicken",
+      "readyInMinutes": 90,
+      "servings": 6,
+      "sourceUrl": "#",
+      "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
+      "imageType": "jpg"
+    }
+  ],
+  "nutrients": {
+    "calories": 1842.92,
+    "protein": 95.6,
+    "fat": 98.35,
+    "carbohydrates": 138.28
+  }
+}
